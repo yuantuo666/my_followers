@@ -8,12 +8,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: '3.8.10'
-          architecture: 'x64'
-          cache: 'pip'
+      - uses: actions/checkout@v4
       - run: pip install -r requirements.txt
       - name: Generate Image
         run: python imgs.py
