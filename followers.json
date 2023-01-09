@@ -11568,12 +11568,6 @@
         "url": "https://github.com/xhkyyy"
     },
     {
-        "login": "real-jiakai",
-        "name": "Jaya",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/82650452?u=ce8a7f0dc3dfcb69e7bf78c6e339bcda8d790eb2&v=4",
-        "url": "https://github.com/real-jiakai"
-    },
-    {
         "login": "Markjoner",
         "name": "Markjoner",
         "avatarUrl": "https://avatars.githubusercontent.com/u/80622082?u=8a37ced8ad61d29af1d88b25d9d950de78b0713f&v=4",
@@ -13148,7 +13142,7 @@
     {
         "login": "YanMu2020",
         "name": "pyroxenite",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/75877299?u=1b3b342a8dceca5757e934f636bb3111933c7ae5&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75877299?u=ac1186881d0ca02d78e458034cab529b33e7d6c0&v=4",
         "url": "https://github.com/YanMu2020"
     },
     {
@@ -14280,12 +14274,6 @@
         "url": "https://github.com/ztf88"
     },
     {
-        "login": "HyunCafe",
-        "name": "HyunSun",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/75151110?u=561837e63a12a99a1ea665df6760234662eae82e&v=4",
-        "url": "https://github.com/HyunCafe"
-    },
-    {
         "login": "lenville",
         "name": "lenville",
         "avatarUrl": "https://avatars.githubusercontent.com/u/1564923?u=69a5fa1f9deb689141f730ab220da47d5a2d00cd&v=4",
@@ -14306,7 +14294,25 @@
     {
         "login": "zhjrcc",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/81341476?u=22c6c3eacdc68847de260b392edaa09ee560ba2b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81341476?u=6f5a1b778550ea1469f64e448ad9e3705633843c&v=4",
         "url": "https://github.com/zhjrcc"
+    },
+    {
+        "login": "mybeinlove",
+        "name": "mybenolove",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6687068?u=771563888b4ef4d37ee9f97f6f13dc3d80f6cb8f&v=4",
+        "url": "https://github.com/mybeinlove"
+    },
+    {
+        "login": "msn04plus",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/122248371?v=4",
+        "url": "https://github.com/msn04plus"
+    },
+    {
+        "login": "HyunCafe",
+        "name": "HyunSun",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75151110?u=561837e63a12a99a1ea665df6760234662eae82e&v=4",
+        "url": "https://github.com/HyunCafe"
     }
 ]
