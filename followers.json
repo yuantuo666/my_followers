@@ -5210,7 +5210,7 @@
     {
         "login": "YukiCoco",
         "name": "Kurisu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18544362?u=4dc0b1c38bef0a7f0a9034f77f89f3208f44208f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18544362?u=af055a7006a6bc01ef7135afab53ed84352d920e&v=4",
         "url": "https://github.com/YukiCoco"
     },
     {
@@ -6698,7 +6698,7 @@
     {
         "login": "whitescent",
         "name": "WhiteScent",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=386b19271b491ce6d5a01aa5bc0acb9150dba4aa&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=eb425c04b728866b58617569809267ccfc046273&v=4",
         "url": "https://github.com/whitescent"
     },
     {
@@ -9512,7 +9512,7 @@
     {
         "login": "ExaAlice",
         "name": "ExaAlice",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/48439969?u=b9c5b867372669feb7a40c77107b69b3d386db7d&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48439969?v=4",
         "url": "https://github.com/ExaAlice"
     },
     {
@@ -13448,7 +13448,7 @@
     {
         "login": "Cydiar",
         "name": "Cydiar",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16251550?u=302d3b42d3d0ec87394677b34328252527eecd51&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16251550?u=f8c521d8b4b750c368b767eed90ba087d10d2a44&v=4",
         "url": "https://github.com/Cydiar"
     },
     {
@@ -14314,5 +14314,35 @@
         "name": "HyunSun",
         "avatarUrl": "https://avatars.githubusercontent.com/u/75151110?u=561837e63a12a99a1ea665df6760234662eae82e&v=4",
         "url": "https://github.com/HyunCafe"
+    },
+    {
+        "login": "iamblackcat",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46001524?v=4",
+        "url": "https://github.com/iamblackcat"
+    },
+    {
+        "login": "arcosx",
+        "name": "arcosx",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17517365?u=a5d36e4b8d276efa460dbdcb22639effe5ab3890&v=4",
+        "url": "https://github.com/arcosx"
+    },
+    {
+        "login": "GuoHongX",
+        "name": "guohong",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18346905?v=4",
+        "url": "https://github.com/GuoHongX"
+    },
+    {
+        "login": "dllen",
+        "name": "roc",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3821183?u=6c18fa45080e93444332f275881b64cca4ad5f24&v=4",
+        "url": "https://github.com/dllen"
+    },
+    {
+        "login": "TZ-one",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44598912?u=b26e3bc5702c2582e364476f045d4bf049567baf&v=4",
+        "url": "https://github.com/TZ-one"
     }
 ]
