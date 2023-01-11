@@ -1092,10 +1092,10 @@
         "url": "https://github.com/icodeface"
     },
     {
-        "login": "Sec-9527",
+        "login": "sec-9527",
         "name": "sec9527",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8966746?u=18ae3562122a097936fe109cd54927f872a687b2&v=4",
-        "url": "https://github.com/Sec-9527"
+        "url": "https://github.com/sec-9527"
     },
     {
         "login": "217cyz",
@@ -5716,12 +5716,6 @@
         "name": "nx4dm1n",
         "avatarUrl": "https://avatars.githubusercontent.com/u/7656848?v=4",
         "url": "https://github.com/nx4dm1n"
-    },
-    {
-        "login": "Bumblebeeeeee",
-        "name": "Bumblebee",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/53522239?u=f1d215188e9c9ccdc65b650efb89ecd4d01b6cf3&v=4",
-        "url": "https://github.com/Bumblebeeeeee"
     },
     {
         "login": "Yang-lin-09",
@@ -11173,7 +11167,7 @@
     },
     {
         "login": "peiel",
-        "name": "Peiel",
+        "name": "Pei",
         "avatarUrl": "https://avatars.githubusercontent.com/u/18136549?u=60031dacfebe4731c8a9bc2c63914eefc3c4ad5e&v=4",
         "url": "https://github.com/peiel"
     },
@@ -13764,10 +13758,10 @@
         "url": "https://github.com/Wybxc"
     },
     {
-        "login": "trasherwngs",
-        "name": "Trasher",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/61261182?u=d1ddb3fd7886c6c1f23ecc10bb51d90433b4ff48&v=4",
-        "url": "https://github.com/trasherwngs"
+        "login": "MenezesLuan",
+        "name": "Luan Menezes",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61261182?u=9030f4ca705e81264346c7c45a002998ca3b7b23&v=4",
+        "url": "https://github.com/MenezesLuan"
     },
     {
         "login": "hardway",
@@ -14344,5 +14338,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/44598912?u=b26e3bc5702c2582e364476f045d4bf049567baf&v=4",
         "url": "https://github.com/TZ-one"
+    },
+    {
+        "login": "yorickshan",
+        "name": "Shan Yinlong",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11376339?u=1bf7a86bb4a497ff84f6e672ff1a2212f9937f48&v=4",
+        "url": "https://github.com/yorickshan"
+    },
+    {
+        "login": "Droid-MAX",
+        "name": "Droid-MAX",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12762435?u=5aa154841601c5814f0e31cdf16585da60ef73ac&v=4",
+        "url": "https://github.com/Droid-MAX"
     }
 ]
