@@ -7332,12 +7332,6 @@
         "url": "https://github.com/Alkaidcc"
     },
     {
-        "login": "gkdgkdgkdgkd",
-        "name": "\u6c37\u6ce0",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/50223031?u=c231b169954ad880ed9e98109144e96885284d74&v=4",
-        "url": "https://github.com/gkdgkdgkdgkd"
-    },
-    {
         "login": "D-S-C-J",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/43565419?u=5462a5100b4be632dbd4fb7ef83fe41fb4d83e9a&v=4",
@@ -9506,7 +9500,7 @@
     {
         "login": "ExaAlice",
         "name": "ExaAlice",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/48439969?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48439969?u=776acd107ef7984ffa15381fc941a324e36da2b1&v=4",
         "url": "https://github.com/ExaAlice"
     },
     {
@@ -9658,12 +9652,6 @@
         "name": "C.C.",
         "avatarUrl": "https://avatars.githubusercontent.com/u/47267788?u=6c01c3105ea6bb41f6edf9ffbb8f530a36450364&v=4",
         "url": "https://github.com/pupilcc"
-    },
-    {
-        "login": "Anderew999",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58868051?v=4",
-        "url": "https://github.com/Anderew999"
     },
     {
         "login": "lcy5201314",
@@ -11425,7 +11413,7 @@
     },
     {
         "login": "xxnuo",
-        "name": "xnuo",
+        "name": "xxnuo",
         "avatarUrl": "https://avatars.githubusercontent.com/u/54252779?u=18676f3fc64fa87931c18d54b98ea69419fe8b97&v=4",
         "url": "https://github.com/xxnuo"
     },
@@ -12470,7 +12458,7 @@
     {
         "login": "Jarwu",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46489550?u=7e9b87fbdccd019bba8111032e8a921424028a04&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46489550?v=4",
         "url": "https://github.com/Jarwu"
     },
     {
@@ -13459,7 +13447,7 @@
     },
     {
         "login": "jeffcai",
-        "name": "Jeff Cai",
+        "name": "Jianfeng Cai",
         "avatarUrl": "https://avatars.githubusercontent.com/u/671273?u=ac9da7e68d172f077b38ad5cb8497e39b0bd3cb8&v=4",
         "url": "https://github.com/jeffcai"
     },
@@ -14350,5 +14338,29 @@
         "name": "Droid-MAX",
         "avatarUrl": "https://avatars.githubusercontent.com/u/12762435?u=5aa154841601c5814f0e31cdf16585da60ef73ac&v=4",
         "url": "https://github.com/Droid-MAX"
+    },
+    {
+        "login": "M0untainShley",
+        "name": "shley",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72058581?u=15a5610824ddebe413506a544aff7573c26a9df2&v=4",
+        "url": "https://github.com/M0untainShley"
+    },
+    {
+        "login": "DreamLanter",
+        "name": "Dream lantern",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70873652?u=54584f9989cc6f2a37ead48cd5120087fe621028&v=4",
+        "url": "https://github.com/DreamLanter"
+    },
+    {
+        "login": "Anderew999",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58868051?v=4",
+        "url": "https://github.com/Anderew999"
+    },
+    {
+        "login": "hjwforever",
+        "name": "Junwen Huang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58247686?u=7c6d4b7ee5c8e3d84f3bc512ad324a8dbc780048&v=4",
+        "url": "https://github.com/hjwforever"
     }
 ]
