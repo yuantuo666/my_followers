@@ -5534,7 +5534,7 @@
     {
         "login": "duuuuannn",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88001050?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88001050?u=70d6fdecd73650611dca4dabc8433e502416ea0e&v=4",
         "url": "https://github.com/duuuuannn"
     },
     {
@@ -14374,5 +14374,11 @@
         "name": "YukiHakarigoto",
         "avatarUrl": "https://avatars.githubusercontent.com/u/20773936?u=7485acec87110c04afc5fdcf7626519cf20c32d8&v=4",
         "url": "https://github.com/YukiHakarigoto"
+    },
+    {
+        "login": "Learn2Bee",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104978506?v=4",
+        "url": "https://github.com/Learn2Bee"
     }
 ]
