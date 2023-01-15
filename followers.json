@@ -6692,7 +6692,7 @@
     {
         "login": "whitescent",
         "name": "WhiteScent",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=eb425c04b728866b58617569809267ccfc046273&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=eac3cfb82f53324419deeb80fe03ec16fd30b49c&v=4",
         "url": "https://github.com/whitescent"
     },
     {
@@ -14380,5 +14380,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/104978506?v=4",
         "url": "https://github.com/Learn2Bee"
+    },
+    {
+        "login": "jxzzlfh",
+        "name": "lifenghua",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/119469404?u=a471f2e525fe14fa1fc4d1e2e7bc8052a1939d68&v=4",
+        "url": "https://github.com/jxzzlfh"
     }
 ]
