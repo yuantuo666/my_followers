@@ -5221,7 +5221,7 @@
     },
     {
         "login": "ggssh",
-        "name": "yyz",
+        "name": "YuanYizhe",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=fac076dc9df60b2441960eef8d56502aac97685b&v=4",
         "url": "https://github.com/ggssh"
     },
@@ -6574,12 +6574,6 @@
         "name": "Yu Zeng",
         "avatarUrl": "https://avatars.githubusercontent.com/u/12152770?u=7fe629e1b5257a1921eaea9ddbe3fc5e86c9d416&v=4",
         "url": "https://github.com/l1nxy"
-    },
-    {
-        "login": "Ca1337",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/99875713?u=c32388acbc4ee9e0fbbde0d53b98f53dadc51427&v=4",
-        "url": "https://github.com/Ca1337"
     },
     {
         "login": "xs314",
@@ -14392,5 +14386,11 @@
         "name": "hononet",
         "avatarUrl": "https://avatars.githubusercontent.com/u/40794457?u=0a1d453c10dc4d227d4009ceee28c81e9b78f0b2&v=4",
         "url": "https://github.com/hononet639"
+    },
+    {
+        "login": "psuidt",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2876785?v=4",
+        "url": "https://github.com/psuidt"
     }
 ]
