@@ -138,10 +138,10 @@
         "url": "https://github.com/chendeshen"
     },
     {
-        "login": "maxwell-jun",
+        "login": "killerjun",
         "name": "maxwell",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18024210?u=5446f3b1fc41496265b316f06166d62c690cec9a&v=4",
-        "url": "https://github.com/maxwell-jun"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18024210?u=4fe91d39ad0820cc020111d88783de063d740fa5&v=4",
+        "url": "https://github.com/killerjun"
     },
     {
         "login": "product-think2049",
@@ -1460,7 +1460,7 @@
     {
         "login": "Super262",
         "name": "Fengwei Zhang",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/42017768?u=3425c90265ae0c28534d63e5a119a1be3f2b7b14&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42017768?u=6a5b0dce3d6e7eac17ab009ce5c50ffdab89964b&v=4",
         "url": "https://github.com/Super262"
     },
     {
@@ -5222,7 +5222,7 @@
     {
         "login": "ggssh",
         "name": "YuanYizhe",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=fac076dc9df60b2441960eef8d56502aac97685b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=f91787b1ca993b24699fd92651b9761039000182&v=4",
         "url": "https://github.com/ggssh"
     },
     {
@@ -7914,12 +7914,6 @@
         "url": "https://github.com/1024th"
     },
     {
-        "login": "NexusKMT",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/63077837?v=4",
-        "url": "https://github.com/NexusKMT"
-    },
-    {
         "login": "uakimm",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/73383167?v=4",
@@ -9925,7 +9919,7 @@
     },
     {
         "login": "gitkeniwo",
-        "name": "\u57fa\u5c3c\u67ef",
+        "name": "Keniwo",
         "avatarUrl": "https://avatars.githubusercontent.com/u/34304497?u=8eff8eb8d45ef32a6e513d621e7874d60826ef46&v=4",
         "url": "https://github.com/gitkeniwo"
     },
@@ -14392,5 +14386,29 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/2876785?v=4",
         "url": "https://github.com/psuidt"
+    },
+    {
+        "login": "TongWu",
+        "name": "Ted",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61213787?u=e3dbb644521a508ab5f5c36df708cb23fe2f0850&v=4",
+        "url": "https://github.com/TongWu"
+    },
+    {
+        "login": "AnmoWu",
+        "name": "Anmo Wu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73103395?u=aafb22f0e76643bc38a72fe5b1eb38befbb31d6a&v=4",
+        "url": "https://github.com/AnmoWu"
+    },
+    {
+        "login": "BBMCoin04",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/122935814?v=4",
+        "url": "https://github.com/BBMCoin04"
+    },
+    {
+        "login": "UlyC",
+        "name": "C",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36838240?u=4e453a64f7d3b2f415c5b90e0bc3b5cc3f41a4e4&v=4",
+        "url": "https://github.com/UlyC"
     }
 ]
