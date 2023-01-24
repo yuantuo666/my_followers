@@ -240,12 +240,6 @@
         "url": "https://github.com/javalangClass"
     },
     {
-        "login": "coderykw",
-        "name": "\u7f8a\u738b",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16605891?u=f546a59578709817f2b1ab43ebdb4e6b2fd446b2&v=4",
-        "url": "https://github.com/coderykw"
-    },
-    {
         "login": "ASHENXZH",
         "name": "NFT",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23288916?v=4",
@@ -10548,10 +10542,10 @@
         "url": "https://github.com/sangkaka"
     },
     {
-        "login": "Ykong1337",
+        "login": "ykong1337",
         "name": "Ykong",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66518156?u=17d54617d1d5851588c91e6b4d690f00a97458e0&v=4",
-        "url": "https://github.com/Ykong1337"
+        "url": "https://github.com/ykong1337"
     },
     {
         "login": "zhangweixsw",
@@ -13740,10 +13734,10 @@
         "url": "https://github.com/Wybxc"
     },
     {
-        "login": "MenezesLuan",
-        "name": "Luan Menezes",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/61261182?u=9030f4ca705e81264346c7c45a002998ca3b7b23&v=4",
-        "url": "https://github.com/MenezesLuan"
+        "login": "trasherwngs",
+        "name": "Trasher",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61261182?u=0a734b3ed98e1aebb33a6b69abad543c4b79d6c3&v=4",
+        "url": "https://github.com/trasherwngs"
     },
     {
         "login": "hardway",
@@ -14298,10 +14292,10 @@
         "url": "https://github.com/arcosx"
     },
     {
-        "login": "GuoHongX",
-        "name": "guohong",
+        "login": "virhuman",
+        "name": "human",
         "avatarUrl": "https://avatars.githubusercontent.com/u/18346905?v=4",
-        "url": "https://github.com/GuoHongX"
+        "url": "https://github.com/virhuman"
     },
     {
         "login": "dllen",
@@ -14428,5 +14422,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/123333215?v=4",
         "url": "https://github.com/Ja98ar"
+    },
+    {
+        "login": "freed1020",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77515621?v=4",
+        "url": "https://github.com/freed1020"
     }
 ]
