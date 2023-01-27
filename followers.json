@@ -2443,7 +2443,7 @@
     },
     {
         "login": "osxtest",
-        "name": "foo",
+        "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/38131934?u=5e6f53486a9781cf86d4d848abfc1e0b47ae1c9c&v=4",
         "url": "https://github.com/osxtest"
     },
@@ -5216,7 +5216,7 @@
     {
         "login": "ggssh",
         "name": "Yizhe Yuan",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=f91787b1ca993b24699fd92651b9761039000182&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=052272252945a1bf91a81edf4d21ef8e9328a1d9&v=4",
         "url": "https://github.com/ggssh"
     },
     {
@@ -9337,7 +9337,7 @@
     },
     {
         "login": "pwnhxl",
-        "name": null,
+        "name": "QAQ",
         "avatarUrl": "https://avatars.githubusercontent.com/u/104293903?v=4",
         "url": "https://github.com/pwnhxl"
     },
@@ -14209,7 +14209,7 @@
     },
     {
         "login": "Mikaa404",
-        "name": "Mikaa",
+        "name": "Mikaa404",
         "avatarUrl": "https://avatars.githubusercontent.com/u/20972206?u=311be295cf65790273acefe8b63bc489cb5859d1&v=4",
         "url": "https://github.com/Mikaa404"
     },
