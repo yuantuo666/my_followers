@@ -3091,7 +3091,7 @@
     },
     {
         "login": "d1y",
-        "name": null,
+        "name": "\u6e90\u6765\u6c0f\u4f50\u7530",
         "avatarUrl": "https://avatars.githubusercontent.com/u/45585937?u=f3d323ba29647b43bef635075ce4807fde1c68e0&v=4",
         "url": "https://github.com/d1y"
     },
@@ -5216,7 +5216,7 @@
     {
         "login": "ggssh",
         "name": "Yizhe Yuan",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=58b00c3c9940909a6d30fe793e7115730b2b5083&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=09d68579f8bac76bddeb9ce84143e029854d3e22&v=4",
         "url": "https://github.com/ggssh"
     },
     {
@@ -6680,7 +6680,7 @@
     {
         "login": "whitescent",
         "name": "WhiteScent",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=0a1ade17a89f7b798b89ef1af33510d43115978f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31311826?u=f210616c95da45e5a54519449ae7ed92bb15e873&v=4",
         "url": "https://github.com/whitescent"
     },
     {
@@ -14434,5 +14434,23 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/116481473?v=4",
         "url": "https://github.com/AquariusBaby6"
+    },
+    {
+        "login": "chinallj88",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/115694673?v=4",
+        "url": "https://github.com/chinallj88"
+    },
+    {
+        "login": "pebble859",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62862664?v=4",
+        "url": "https://github.com/pebble859"
+    },
+    {
+        "login": "lblbk",
+        "name": "martin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26684296?u=12a1c197e77e46a325dff574fc2ee56a60a7c96d&v=4",
+        "url": "https://github.com/lblbk"
     }
 ]
