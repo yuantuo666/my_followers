@@ -3091,7 +3091,7 @@
     },
     {
         "login": "d1y",
-        "name": "\u6e90\u6765\u6c0f\u4f50\u7530",
+        "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/45585937?u=f3d323ba29647b43bef635075ce4807fde1c68e0&v=4",
         "url": "https://github.com/d1y"
     },
@@ -11767,7 +11767,7 @@
     },
     {
         "login": "LoganQiu",
-        "name": null,
+        "name": "0x7C00",
         "avatarUrl": "https://avatars.githubusercontent.com/u/57286475?u=e9bc226990cb68a2a28b80c015b4d4fe653db385&v=4",
         "url": "https://github.com/LoganQiu"
     },
@@ -14452,5 +14452,17 @@
         "name": "martin",
         "avatarUrl": "https://avatars.githubusercontent.com/u/26684296?u=12a1c197e77e46a325dff574fc2ee56a60a7c96d&v=4",
         "url": "https://github.com/lblbk"
+    },
+    {
+        "login": "likedidu",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91383267?v=4",
+        "url": "https://github.com/likedidu"
+    },
+    {
+        "login": "MTDickens",
+        "name": "Max Terrae Dickens",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47918604?v=4",
+        "url": "https://github.com/MTDickens"
     }
 ]
