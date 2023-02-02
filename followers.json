@@ -3468,12 +3468,6 @@
         "url": "https://github.com/MJFO1"
     },
     {
-        "login": "niudaii",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/41844046?u=90987af8cb593c4ed2ab005cfd949e474a49d615&v=4",
-        "url": "https://github.com/niudaii"
-    },
-    {
         "login": "khanjanny",
         "name": "KhanJanny",
         "avatarUrl": "https://avatars.githubusercontent.com/u/19942505?u=dac8c4b0ebfd4527ad77a988295887d59d925433&v=4",
@@ -10328,7 +10322,7 @@
     {
         "login": "Fridgffy",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52872824?u=6f9c71500d3f796a56215dd960b95692eea95ed8&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52872824?u=92131b0407d068d60850c5dabaa1fb9e2251049d&v=4",
         "url": "https://github.com/Fridgffy"
     },
     {
@@ -14464,5 +14458,17 @@
         "name": "\u98ce\u95f4\u82cf\u82cf",
         "avatarUrl": "https://avatars.githubusercontent.com/u/22370654?u=d33a50bd5df150273cbc6e46f844165549c03230&v=4",
         "url": "https://github.com/TheresaQWQ"
+    },
+    {
+        "login": "eAzure",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43941572?u=25ce6dd616352bbf176401f2e54ccaf95bf79a9c&v=4",
+        "url": "https://github.com/eAzure"
+    },
+    {
+        "login": "4664gdh",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/122405749?v=4",
+        "url": "https://github.com/4664gdh"
     }
 ]
