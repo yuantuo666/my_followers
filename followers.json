@@ -5209,7 +5209,7 @@
     },
     {
         "login": "ggssh",
-        "name": "Yizhe Yuan",
+        "name": "Charles Thompson",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=0995692084cba1a2a090e00bf825baaa4193b52c&v=4",
         "url": "https://github.com/ggssh"
     },
@@ -8359,7 +8359,7 @@
     },
     {
         "login": "brandon0824",
-        "name": "Brandon Ng",
+        "name": "Wu Zhehan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23572851?u=35b566ed532ad087632e30b25d1708665ed26411&v=4",
         "url": "https://github.com/brandon0824"
     },
@@ -9577,8 +9577,8 @@
     },
     {
         "login": "nthtre",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/102584220?v=4",
+        "name": "pnyer",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/102584220?u=04ba1753914b93e4984cf27c7a8be4ae0fd5e3e9&v=4",
         "url": "https://github.com/nthtre"
     },
     {
@@ -11228,7 +11228,7 @@
     {
         "login": "ligdy7",
         "name": "Ligdy",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26371465?u=7e51485c8d21bf023cac0e8c9c02c530df91e317&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26371465?u=0b3530bbc689e4d4d280d6c0bffe56fcad579902&v=4",
         "url": "https://github.com/ligdy7"
     },
     {
@@ -13112,7 +13112,7 @@
     {
         "login": "al0rid4l",
         "name": "al0rid4l",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/77634137?u=f26a9cca4a1a40e256ebd7fbc3ce60a3cc65f7f3&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77634137?u=39a4bdd32bb5ebe39e233dd6bf5c766d18758658&v=4",
         "url": "https://github.com/al0rid4l"
     },
     {
@@ -14482,5 +14482,11 @@
         "name": "StarrySky",
         "avatarUrl": "https://avatars.githubusercontent.com/u/96645657?u=77ef0ddd7014ed0ef8b9beca5be569202424486c&v=4",
         "url": "https://github.com/linnyr0623"
+    },
+    {
+        "login": "sunnysab",
+        "name": "sunnysab",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11255727?u=20afe02193468abb217bd9cd7695bd7a79ad7788&v=4",
+        "url": "https://github.com/sunnysab"
     }
 ]
