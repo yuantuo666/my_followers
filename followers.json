@@ -241,7 +241,7 @@
     },
     {
         "login": "ASHENXZH",
-        "name": "NFT",
+        "name": "V",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23288916?v=4",
         "url": "https://github.com/ASHENXZH"
     },
@@ -14246,7 +14246,7 @@
     {
         "login": "zhjrcc",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/81341476?u=6f5a1b778550ea1469f64e448ad9e3705633843c&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81341476?u=d1c9eab8a6f32fca8878c8482d1dfe4f49f3e118&v=4",
         "url": "https://github.com/zhjrcc"
     },
     {
@@ -14488,5 +14488,17 @@
         "name": "sunnysab",
         "avatarUrl": "https://avatars.githubusercontent.com/u/11255727?u=20afe02193468abb217bd9cd7695bd7a79ad7788&v=4",
         "url": "https://github.com/sunnysab"
+    },
+    {
+        "login": "luis-arch",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61920061?v=4",
+        "url": "https://github.com/luis-arch"
+    },
+    {
+        "login": "liCells",
+        "name": "Li Zong",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86179513?u=7bd39ef25caeb74e1606e42d7c2225fc941c0b4b&v=4",
+        "url": "https://github.com/liCells"
     }
 ]
