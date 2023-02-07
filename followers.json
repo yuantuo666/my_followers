@@ -1616,7 +1616,7 @@
     {
         "login": "atomxw",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6696126?u=a90fc6aad94fb68a848af5606b7e7706c2fea39f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6696126?u=f01e7b7195f30457e075bc6340e7aa8b5980cc6f&v=4",
         "url": "https://github.com/atomxw"
     },
     {
@@ -6769,8 +6769,8 @@
     },
     {
         "login": "EsqerYasen",
-        "name": "Esqer",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36286533?u=d255c89307127d5a884dfc05581d9bd5ba7a463e&v=4",
+        "name": "\u827e\u65af\u5580\u5c14\u00b7\u4e9a\u68ee",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36286533?u=7f97b624def508ca9561c67af6a4e09aa28853ff&v=4",
         "url": "https://github.com/EsqerYasen"
     },
     {
@@ -8359,7 +8359,7 @@
     },
     {
         "login": "brandon0824",
-        "name": "Wu Zhehan",
+        "name": "Brandon Ng",
         "avatarUrl": "https://avatars.githubusercontent.com/u/23572851?u=35b566ed532ad087632e30b25d1708665ed26411&v=4",
         "url": "https://github.com/brandon0824"
     },
@@ -10172,7 +10172,7 @@
     {
         "login": "sevenwater",
         "name": "dietree",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46588305?u=0304f39a29d54e308d899ec1fdee27f3b556b423&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46588305?u=3a3ca5bf46eb4c875ac828471f79a7d2770b779c&v=4",
         "url": "https://github.com/sevenwater"
     },
     {
@@ -14500,5 +14500,11 @@
         "name": "Li Zong",
         "avatarUrl": "https://avatars.githubusercontent.com/u/86179513?u=7bd39ef25caeb74e1606e42d7c2225fc941c0b4b&v=4",
         "url": "https://github.com/liCells"
+    },
+    {
+        "login": "anderleung",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/122955678?v=4",
+        "url": "https://github.com/anderleung"
     }
 ]
