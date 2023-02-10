@@ -2935,8 +2935,8 @@
     },
     {
         "login": "bgrstar",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/50064524?u=48db29c3786c6b134eb5106b01761a5df0e33d97&v=4",
+        "name": "nobgr",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50064524?u=a9a8c4df1457c4af11c6ca2c68cb55fd5b118791&v=4",
         "url": "https://github.com/bgrstar"
     },
     {
@@ -5762,7 +5762,7 @@
     {
         "login": "hqqich",
         "name": "hqqich",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46547919?u=0f34fe23d6347d58352e9bdf68aaed79e5789b18&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46547919?u=eefe34a753a4083a2ca52c11d9a4cafa5796545e&v=4",
         "url": "https://github.com/hqqich"
     },
     {
@@ -6182,7 +6182,7 @@
     {
         "login": "fantasyroot",
         "name": "Anto17",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8604073?u=573a47e85654604858935e7a651ff3cf327d6cbf&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8604073?u=9af465bd5ac29de6178471857b29b8a5aea642f2&v=4",
         "url": "https://github.com/fantasyroot"
     },
     {
@@ -11318,7 +11318,7 @@
     {
         "login": "d0zingcat",
         "name": "Lee Tang",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8235790?u=c4efd8c7998d27b106b4a27e0827453c98da976f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8235790?u=936f0f67bb86fd2143c64449495a0d44d9aaf689&v=4",
         "url": "https://github.com/d0zingcat"
     },
     {
@@ -11683,7 +11683,7 @@
     },
     {
         "login": "intMojIBakE",
-        "name": "Shinohara",
+        "name": "Shinohara Haruna",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8310292?u=f0e1e6e72be60d4ba96f60d3ffe6cde8ae2b5fa8&v=4",
         "url": "https://github.com/intMojIBakE"
     },
@@ -13958,7 +13958,7 @@
     {
         "login": "mchridz",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55925178?u=77efcc747a0941c2198540b9584d9bc1d2b9d941&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55925178?u=503edffeff0b259f5b78f9f94b4c4023812dc409&v=4",
         "url": "https://github.com/mchridz"
     },
     {
@@ -14518,5 +14518,11 @@
         "name": "\u5218\u6e2f\u6b22",
         "avatarUrl": "https://avatars.githubusercontent.com/u/21768987?u=6104699af33b11fe4803754da77e89671ded437a&v=4",
         "url": "https://github.com/arloor"
+    },
+    {
+        "login": "csyuxuan",
+        "name": "csyuxuan",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26371874?u=31ce255c19315f8be3fc89d9caa2fe36ab82ada7&v=4",
+        "url": "https://github.com/csyuxuan"
     }
 ]
