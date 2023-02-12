@@ -2263,7 +2263,7 @@
     },
     {
         "login": "paynexss",
-        "name": "PayNeXss",
+        "name": "PayNe",
         "avatarUrl": "https://avatars.githubusercontent.com/u/5448638?u=a36ab2ec11ac34d848f9d306d31a292e30ee4866&v=4",
         "url": "https://github.com/paynexss"
     },
@@ -6691,7 +6691,7 @@
     },
     {
         "login": "GGttyyy",
-        "name": null,
+        "name": "GGttyyy",
         "avatarUrl": "https://avatars.githubusercontent.com/u/42407379?v=4",
         "url": "https://github.com/GGttyyy"
     },
@@ -8700,10 +8700,10 @@
         "url": "https://github.com/Hongharvey"
     },
     {
-        "login": "lalalavard",
-        "name": "lavard",
+        "login": "keqing77",
+        "name": "keqing",
         "avatarUrl": "https://avatars.githubusercontent.com/u/48318812?u=b8c645025900431c235e1953104a6615f48e03f2&v=4",
-        "url": "https://github.com/lalalavard"
+        "url": "https://github.com/keqing77"
     },
     {
         "login": "jingjianhai",
@@ -10172,7 +10172,7 @@
     {
         "login": "sevenwater",
         "name": "dietree",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46588305?u=3a3ca5bf46eb4c875ac828471f79a7d2770b779c&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46588305?u=9172c17f4f4a7225c3f7949eaa4dd54fab2b1ba4&v=4",
         "url": "https://github.com/sevenwater"
     },
     {
@@ -13393,7 +13393,7 @@
     },
     {
         "login": "langjihao",
-        "name": null,
+        "name": "\u90ce\u5409\u8c6a",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58073636?v=4",
         "url": "https://github.com/langjihao"
     },
@@ -14524,5 +14524,17 @@
         "name": "csyuxuan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/26371874?u=31ce255c19315f8be3fc89d9caa2fe36ab82ada7&v=4",
         "url": "https://github.com/csyuxuan"
+    },
+    {
+        "login": "zyfyy",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1721417?u=a32f51942d56a10174c1b33a5b31034efd6f0ef3&v=4",
+        "url": "https://github.com/zyfyy"
+    },
+    {
+        "login": "whalewillwe11",
+        "name": "wq",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33027366?u=3fd2da85c319c59a0e5f8e20e33e68ec387cac3b&v=4",
+        "url": "https://github.com/whalewillwe11"
     }
 ]
