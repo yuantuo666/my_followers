@@ -5209,7 +5209,7 @@
     },
     {
         "login": "ggssh",
-        "name": "Charles Thompson",
+        "name": "Yizhe Yuan",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=9f15a18ea29d8597b406b98babe6fe304701ff09&v=4",
         "url": "https://github.com/ggssh"
     },
@@ -10788,12 +10788,6 @@
         "url": "https://github.com/alpaca121"
     },
     {
-        "login": "JaimeZeng",
-        "name": "JaimeZeng",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78083448?u=99e633d5be5f33585187b3b29ea2c30d97998816&v=4",
-        "url": "https://github.com/JaimeZeng"
-    },
-    {
         "login": "BenjaminChiu",
         "name": "Benjamin Chiu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/18473798?u=4df79eff2d5920c177bf77aa836b7804cb93bcd5&v=4",
@@ -14536,5 +14530,17 @@
         "name": "wq",
         "avatarUrl": "https://avatars.githubusercontent.com/u/33027366?u=3fd2da85c319c59a0e5f8e20e33e68ec387cac3b&v=4",
         "url": "https://github.com/whalewillwe11"
+    },
+    {
+        "login": "hoayo",
+        "name": "Roy",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57223280?u=55ba3595bf6f931318fd42362d5e280782b1d476&v=4",
+        "url": "https://github.com/hoayo"
+    },
+    {
+        "login": "harris4git",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/124664046?u=b81a292889925d7fe07c7ab1b297a1f9606c5bab&v=4",
+        "url": "https://github.com/harris4git"
     }
 ]
