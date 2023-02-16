@@ -1117,7 +1117,7 @@
     },
     {
         "login": "tennc",
-        "name": null,
+        "name": "new",
         "avatarUrl": "https://avatars.githubusercontent.com/u/670357?u=8dbf13ab6ea0294a146f8e0954bb80c5d559208a&v=4",
         "url": "https://github.com/tennc"
     },
@@ -3943,7 +3943,7 @@
     },
     {
         "login": "Ainevsia",
-        "name": "Lantis Iranyusling",
+        "name": "Zhipeng Xu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/31178818?u=c11653e9b683eb8fa996be92d5500fe96a02224b&v=4",
         "url": "https://github.com/Ainevsia"
     },
@@ -4118,7 +4118,7 @@
     {
         "login": "olist213",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46209842?u=0682664407c4c16ea5a65080094d4159860059da&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46209842?u=2cab4bdd5285b381c5a7ab900c05dd13a36fd1d5&v=4",
         "url": "https://github.com/olist213"
     },
     {
@@ -5210,7 +5210,7 @@
     {
         "login": "ggssh",
         "name": "Yizhe Yuan",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=9f15a18ea29d8597b406b98babe6fe304701ff09&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=05245d913d6250da132da974ce20a9258c8b6738&v=4",
         "url": "https://github.com/ggssh"
     },
     {
@@ -6577,7 +6577,7 @@
     },
     {
         "login": "mM0nk3y",
-        "name": null,
+        "name": "100000000",
         "avatarUrl": "https://avatars.githubusercontent.com/u/88301075?u=b70326a0eb9d0634725aec369f35326bed8eb57f&v=4",
         "url": "https://github.com/mM0nk3y"
     },
@@ -9542,7 +9542,7 @@
     {
         "login": "gngpp",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51810656?u=30c8604003529c19e011a919a1107f18b8676821&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51810656?u=2202f833fbb1ecc37f41e1060077721111c2a62c&v=4",
         "url": "https://github.com/gngpp"
     },
     {
@@ -12624,10 +12624,10 @@
         "url": "https://github.com/Miloas"
     },
     {
-        "login": "sck852",
+        "login": "sck0537",
         "name": "sck0537",
         "avatarUrl": "https://avatars.githubusercontent.com/u/61313985?u=416b61ff351450051578e7032b6417913f2a7e36&v=4",
-        "url": "https://github.com/sck852"
+        "url": "https://github.com/sck0537"
     },
     {
         "login": "tangivis",
@@ -13280,7 +13280,7 @@
     {
         "login": "itxve",
         "name": "itxve",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33005087?u=74763de64ba34323a240d5e7c7e4d7e33225ca35&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33005087?u=4b6443ffff4bffe4ee7a87c238a7bbff520792c4&v=4",
         "url": "https://github.com/itxve"
     },
     {
@@ -14596,5 +14596,41 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/88394857?v=4",
         "url": "https://github.com/BlackNurse"
+    },
+    {
+        "login": "zsakvo",
+        "name": "\u6c9a\u6c34",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25399519?u=eab26f6169e65d10bc3106bb09fc41a958c066a5&v=4",
+        "url": "https://github.com/zsakvo"
+    },
+    {
+        "login": "zdyxry",
+        "name": "Yiran Zhou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12016373?u=3c7396125469201d4a40235148b967a9b05596c3&v=4",
+        "url": "https://github.com/zdyxry"
+    },
+    {
+        "login": "dhlolo",
+        "name": "Int",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50065494?u=b9f990153ebdc340248aee8d284f36653223accb&v=4",
+        "url": "https://github.com/dhlolo"
+    },
+    {
+        "login": "xiezipei",
+        "name": "xiezipei",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5949351?u=664a926e8405228be3aa335cb336d7f189b47807&v=4",
+        "url": "https://github.com/xiezipei"
+    },
+    {
+        "login": "SouthToSouth",
+        "name": "NorthToSouth",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/118036951?v=4",
+        "url": "https://github.com/SouthToSouth"
+    },
+    {
+        "login": "fangpsh",
+        "name": "fangpsh",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1650540?u=6d264b346a136449155a3777ee06eb156b2d0004&v=4",
+        "url": "https://github.com/fangpsh"
     }
 ]
