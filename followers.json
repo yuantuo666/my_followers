@@ -2048,7 +2048,7 @@
     {
         "login": "PolarPeak",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44831329?u=7fb91e137b01fec9aefc1c4204bc5458fa207537&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44831329?u=de883e0fe3950bad1dfa017d7a596b2fa4188f06&v=4",
         "url": "https://github.com/PolarPeak"
     },
     {
@@ -2706,10 +2706,10 @@
         "url": "https://github.com/DevilAguo0"
     },
     {
-        "login": "L1t4ever",
+        "login": "udiggwhatimsayin",
         "name": "Hou",
         "avatarUrl": "https://avatars.githubusercontent.com/u/48686956?u=50902083a0f00c7dc0e503d9ba5980da0810498e&v=4",
-        "url": "https://github.com/L1t4ever"
+        "url": "https://github.com/udiggwhatimsayin"
     },
     {
         "login": "jacklusch",
@@ -3938,7 +3938,7 @@
     {
         "login": "CKCat",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18586344?u=dc0f1759fee75ab52684dfe8bc11be01b3b05b58&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18586344?u=9ce8826617a836778b5b9c3736e104c83ce42471&v=4",
         "url": "https://github.com/CKCat"
     },
     {
@@ -11462,7 +11462,7 @@
     {
         "login": "hellojukay",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/10371891?u=3969440b4ee62a11d82429acc9b5600f79df2b05&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10371891?u=253119fc200844222a4f58e39aacafa433dbc06b&v=4",
         "url": "https://github.com/hellojukay"
     },
     {
@@ -14094,12 +14094,6 @@
         "url": "https://github.com/Agou888"
     },
     {
-        "login": "icetangy",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/109947772?v=4",
-        "url": "https://github.com/icetangy"
-    },
-    {
         "login": "nwbgercd",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/90537217?u=0f363c56e1e5564ad5f923158294d6dcd99bc515&v=4",
@@ -14650,5 +14644,23 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/54236626?v=4",
         "url": "https://github.com/zjsxply"
+    },
+    {
+        "login": "icetangy",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109947772?v=4",
+        "url": "https://github.com/icetangy"
+    },
+    {
+        "login": "a1yix",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/105381084?u=64f1ca0ca2b52b15bd21f7e8881797b0068a28ee&v=4",
+        "url": "https://github.com/a1yix"
+    },
+    {
+        "login": "DoiiarX",
+        "name": "Doiiars",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25550075?u=03d85e2830691f2c74f7d212ae2822283f75480c&v=4",
+        "url": "https://github.com/DoiiarX"
     }
 ]
