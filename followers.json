@@ -3734,7 +3734,7 @@
     {
         "login": "For3stCo1d",
         "name": "For3stCo1d",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=fb46e9e700ff8aa19b971e1ac6780abe08ea2a27&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57119052?u=aa9ce27b7676a236e31de5a8df8d4e950cfcd8cb&v=4",
         "url": "https://github.com/For3stCo1d"
     },
     {
@@ -5210,7 +5210,7 @@
     {
         "login": "ggssh",
         "name": "Yizhe Yuan",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=0112cffb9fbf4a2af740ae488efe4e887fc2b790&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55895271?u=e28854bfec55d2d4f1c49877db37a45d71240c49&v=4",
         "url": "https://github.com/ggssh"
     },
     {
@@ -11035,8 +11035,8 @@
     },
     {
         "login": "cmiraa",
-        "name": "cmiraa",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/50484545?u=e44393d21d251912ecfdba15d316b9d941b9e8a0&v=4",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50484545?u=a1106edfa888440dce141ad31b5a1c6249dfc6e0&v=4",
         "url": "https://github.com/cmiraa"
     },
     {
@@ -14674,5 +14674,83 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/59766407?u=b366f320f6f076ccbf7d6af264f9c21ea9b8df5e&v=4",
         "url": "https://github.com/ProbeWong"
+    },
+    {
+        "login": "ClaireLind1",
+        "name": "ClaireLind1",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87566424?u=e83d84f8f6e1acfe11f72a213427c069755ca8e2&v=4",
+        "url": "https://github.com/ClaireLind1"
+    },
+    {
+        "login": "lambone",
+        "name": "Roy Yang",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4221783?v=4",
+        "url": "https://github.com/lambone"
+    },
+    {
+        "login": "studyxiao",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17558314?u=645efcb891a067a26c35939d7085d7aca07172ba&v=4",
+        "url": "https://github.com/studyxiao"
+    },
+    {
+        "login": "ZPVIP",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1565870?v=4",
+        "url": "https://github.com/ZPVIP"
+    },
+    {
+        "login": "yorkfread",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26402739?u=98cebc788d1abccfcf55d50f1298c94889beab4a&v=4",
+        "url": "https://github.com/yorkfread"
+    },
+    {
+        "login": "claviering",
+        "name": "Kevin Lin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16227832?u=18a2fe5c5b7a383bac74c1f57180836df66cc88d&v=4",
+        "url": "https://github.com/claviering"
+    },
+    {
+        "login": "MAYDAY818",
+        "name": "MAYDAY",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23306264?u=9f4274974cba44695de388cdf6ed018cd76a2009&v=4",
+        "url": "https://github.com/MAYDAY818"
+    },
+    {
+        "login": "juiceMoonlight",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56538406?u=4fe127f8761d3398c90fb45cc81a7ae4da029e97&v=4",
+        "url": "https://github.com/juiceMoonlight"
+    },
+    {
+        "login": "jsiwa",
+        "name": "Jsiwa",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5311029?v=4",
+        "url": "https://github.com/jsiwa"
+    },
+    {
+        "login": "superbase-zz",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/272934?v=4",
+        "url": "https://github.com/superbase-zz"
+    },
+    {
+        "login": "quanwenxing",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22661556?v=4",
+        "url": "https://github.com/quanwenxing"
+    },
+    {
+        "login": "WhiCCX0",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47388635?u=f0b82109d8c4c09f754498cba2ad330cc1bd7122&v=4",
+        "url": "https://github.com/WhiCCX0"
+    },
+    {
+        "login": "sunprincess",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4654672?v=4",
+        "url": "https://github.com/sunprincess"
     }
 ]
