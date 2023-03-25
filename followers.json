@@ -655,7 +655,7 @@
     },
     {
         "login": "Tom89757",
-        "name": null,
+        "name": "FENG TAO",
         "avatarUrl": "https://avatars.githubusercontent.com/u/44827483?u=96243eaafdbbca4f421641d6b0fa52f5cda6dc16&v=4",
         "url": "https://github.com/Tom89757"
     },
@@ -1270,5 +1270,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/26373840?u=ba178bedee6b70ba9206bd0fc84f236b49696070&v=4",
         "url": "https://github.com/royswale"
+    },
+    {
+        "login": "WANGAndyYucheng",
+        "name": "WANG Yucheng",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107743952?u=df62410aa1a9b53faaf84054ab6960cb1471a72e&v=4",
+        "url": "https://github.com/WANGAndyYucheng"
     }
 ]
