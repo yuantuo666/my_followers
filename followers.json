@@ -37,7 +37,7 @@
     },
     {
         "login": "StormAlexZhang",
-        "name": null,
+        "name": "Alexander Zhang",
         "avatarUrl": "https://avatars.githubusercontent.com/u/20188469?u=d1e7d85797a9ec1a4ef591e806dd22847b5ad449&v=4",
         "url": "https://github.com/StormAlexZhang"
     },
@@ -1248,12 +1248,6 @@
         "url": "https://github.com/hongzhenbo"
     },
     {
-        "login": "yjnui",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/118096863?u=a05cf49ea35964887eb884ff12410504c4f73a1b&v=4",
-        "url": "https://github.com/yjnui"
-    },
-    {
         "login": "kuangjun2021",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/119917330?v=4",
@@ -1294,5 +1288,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/122343695?v=4",
         "url": "https://github.com/loyconzf"
+    },
+    {
+        "login": "freylau-gh",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/129364003?u=ab9501ba9e5dd643ac615992ea61676951225317&v=4",
+        "url": "https://github.com/freylau-gh"
     }
 ]
