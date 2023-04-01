@@ -1009,7 +1009,7 @@
     },
     {
         "login": "kocodex",
-        "name": "KoCoDe",
+        "name": "KoCoDeX",
         "avatarUrl": "https://avatars.githubusercontent.com/u/114391133?u=304660e6fcf0a368b5339efe125e11649e6ec626&v=4",
         "url": "https://github.com/kocodex"
     },
@@ -1294,5 +1294,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/129364003?u=ab9501ba9e5dd643ac615992ea61676951225317&v=4",
         "url": "https://github.com/fl-prc"
+    },
+    {
+        "login": "dsgler",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91000847?v=4",
+        "url": "https://github.com/dsgler"
     }
 ]
