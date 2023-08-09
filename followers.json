@@ -768,12 +768,6 @@
         "url": "https://github.com/lofter414"
     },
     {
-        "login": "OfflineY",
-        "name": "Billy Yuan",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78723274?u=0bc098d37e63e6867f8eb81cac7b04ebc68480cb&v=4",
-        "url": "https://github.com/OfflineY"
-    },
-    {
         "login": "edison-Cb-ch",
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/52326007?v=4",
@@ -1564,5 +1558,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/118388739?v=4",
         "url": "https://github.com/Alxesa"
+    },
+    {
+        "login": "JACKYZHAO0216",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/115851648?u=2eb839a8bdaab5d905c8776c45bf9ad49b4cfba2&v=4",
+        "url": "https://github.com/JACKYZHAO0216"
     }
 ]
