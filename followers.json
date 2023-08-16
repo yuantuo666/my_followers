@@ -739,7 +739,7 @@
     },
     {
         "login": "whiplashHan",
-        "name": "whiplash",
+        "name": "hz",
         "avatarUrl": "https://avatars.githubusercontent.com/u/17563130?u=5f019918bbacec3d647d0cc4d498ec324c953d02&v=4",
         "url": "https://github.com/whiplashHan"
     },
@@ -1321,7 +1321,7 @@
     },
     {
         "login": "1746705990",
-        "name": "Terracotta",
+        "name": "Tomate",
         "avatarUrl": "https://avatars.githubusercontent.com/u/126673150?u=32ca7aeaed22f7a36e7f1f124d05e4dbe94805e9&v=4",
         "url": "https://github.com/1746705990"
     },
@@ -1570,5 +1570,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/75972651?v=4",
         "url": "https://github.com/Swent6"
+    },
+    {
+        "login": "frontcutup",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/132503531?u=6626a3494c3b16241460c6fa276692283e9753fa&v=4",
+        "url": "https://github.com/frontcutup"
     }
 ]
