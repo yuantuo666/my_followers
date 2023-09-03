@@ -1225,8 +1225,8 @@
     },
     {
         "login": "MCHZB",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/87538270?u=c883f931043958b9fafdd48af21dede871f4b622&v=4",
+        "name": "MCIART",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87538270?u=d2d825817f9197cfda385cb82692cf2e17bac49f&v=4",
         "url": "https://github.com/MCHZB"
     },
     {
@@ -1594,5 +1594,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/131288143?u=08ebd25626179675b0655ce45c4f978f27573ab7&v=4",
         "url": "https://github.com/GH-OP"
+    },
+    {
+        "login": "SuShuiNB",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76510739?v=4",
+        "url": "https://github.com/SuShuiNB"
     }
 ]
