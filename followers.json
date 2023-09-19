@@ -1484,7 +1484,7 @@
     {
         "login": "shengjiaohao",
         "name": "FoxiP@ssW0rd",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/69629777?u=09f908b8937590b108ff2800fdecaff0b1629e0e&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69629777?u=516155ba7ef4e88d50611d2deaafd601b3013fb9&v=4",
         "url": "https://github.com/shengjiaohao"
     },
     {
@@ -1618,5 +1618,11 @@
         "name": "RTcui",
         "avatarUrl": "https://avatars.githubusercontent.com/u/103620369?u=a553e209bceaaa0f3802b85ae259a7ab346cd1b2&v=4",
         "url": "https://github.com/RTcui"
+    },
+    {
+        "login": "haoxiang8021",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25751562?v=4",
+        "url": "https://github.com/haoxiang8021"
     }
 ]
