@@ -1178,7 +1178,7 @@
     {
         "login": "rainseason1",
         "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/63706673?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63706673?u=34842bdf745eaa2788ecf952a7ee7d656d85fad0&v=4",
         "url": "https://github.com/rainseason1"
     },
     {
@@ -1684,5 +1684,11 @@
         "name": "Yige",
         "avatarUrl": "https://avatars.githubusercontent.com/u/6657330?u=75ce85959b7f6bec1b50f778a7ce351dff76a8ba&v=4",
         "url": "https://github.com/yi-ge"
+    },
+    {
+        "login": "Xqlc",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/133474056?v=4",
+        "url": "https://github.com/Xqlc"
     }
 ]
