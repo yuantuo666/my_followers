@@ -1435,7 +1435,7 @@
     },
     {
         "login": "JackLee2111",
-        "name": "Jack-Lee",
+        "name": "Jack Lee",
         "avatarUrl": "https://avatars.githubusercontent.com/u/102362793?u=927af138411c4c3bfb3ab3714d2b047c172daf6d&v=4",
         "url": "https://github.com/JackLee2111"
     },
@@ -1750,5 +1750,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/75867450?u=0fbf0ec4682aa7bda2e7c2bca7a76ce44615c129&v=4",
         "url": "https://github.com/koko-24"
+    },
+    {
+        "login": "dmrkdmrk",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44148241?v=4",
+        "url": "https://github.com/dmrkdmrk"
     }
 ]
