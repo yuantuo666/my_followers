@@ -1448,7 +1448,7 @@
     {
         "login": "XiaoNianGao001",
         "name": "xiaoniangao",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/110495041?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110495041?u=8018e1b169f6f1f2d778a876a9fef90a62ec244b&v=4",
         "url": "https://github.com/XiaoNianGao001"
     },
     {
@@ -1792,5 +1792,11 @@
         "name": "Liumeng Xue",
         "avatarUrl": "https://avatars.githubusercontent.com/u/33707885?u=e21be98ce3d96130d5b3d0e1f06a66d874e3863b&v=4",
         "url": "https://github.com/lmxue"
+    },
+    {
+        "login": "will-not-stop-here",
+        "name": "Bi Yuntian",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/141387304?u=c9f67bbefb383926a9af2c28494ef213c09f9b16&v=4",
+        "url": "https://github.com/will-not-stop-here"
     }
 ]
