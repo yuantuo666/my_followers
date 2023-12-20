@@ -487,7 +487,7 @@
     },
     {
         "login": "cv2wx",
-        "name": "\u6e05\u7fbdChingjyu",
+        "name": "\u6e05\u7fbdVictor",
         "avatarUrl": "https://avatars.githubusercontent.com/u/69333371?v=4",
         "url": "https://github.com/cv2wx"
     },
@@ -1220,7 +1220,7 @@
     {
         "login": "mciart",
         "name": "MCIART",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/87538270?u=5fd4888e6b692729bb4e8f50317f65733f6c28eb&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87538270?u=2f0b4378bd6b507d8ebe5dfdb16b3d27f1cf360f&v=4",
         "url": "https://github.com/mciart"
     },
     {
@@ -1834,5 +1834,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/134495374?v=4",
         "url": "https://github.com/5v5yy"
+    },
+    {
+        "login": "LOTOWBXL",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/143690196?v=4",
+        "url": "https://github.com/LOTOWBXL"
     }
 ]
