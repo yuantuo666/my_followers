@@ -1482,10 +1482,10 @@
         "url": "https://github.com/shengjiaohao"
     },
     {
-        "login": "ALAN111222",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/124756632?v=4",
-        "url": "https://github.com/ALAN111222"
+        "login": "ALANotFound",
+        "name": "ALAN",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/124756632?u=91a772d07a860b2e0b313b01ca081f11fb0b453c&v=4",
+        "url": "https://github.com/ALANotFound"
     },
     {
         "login": "teddyol",
@@ -1864,5 +1864,11 @@
         "name": "Lai Wei",
         "avatarUrl": "https://avatars.githubusercontent.com/u/74816944?u=b12db0c527eb2d96a556adeec4c47b37731f4c1a&v=4",
         "url": "https://github.com/I-am-Future"
+    },
+    {
+        "login": "CCpt5",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37972078?u=8222584a18d4f52ca0780d9dde6c2d5f80544b78&v=4",
+        "url": "https://github.com/CCpt5"
     }
 ]
