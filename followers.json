@@ -1394,7 +1394,7 @@
     {
         "login": "xdotli",
         "name": "Xiangyi Li",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/51786539?u=993ac4cca130981aed015ae3860d25b1b3ba83ff&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51786539?u=adf7be536d312a54b69cb1e65bdd77a98a29db29&v=4",
         "url": "https://github.com/xdotli"
     },
     {
@@ -1876,5 +1876,11 @@
         "name": "kevon2019",
         "avatarUrl": "https://avatars.githubusercontent.com/u/43534903?u=2b0894bc51e1ac3c1a47c6342229c857c4bc3012&v=4",
         "url": "https://github.com/kevon2019"
+    },
+    {
+        "login": "randulfzhao",
+        "name": "Runze ZHAO",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86967133?u=81b9a5173b0ef81385b07ff969f9605ef928e7ca&v=4",
+        "url": "https://github.com/randulfzhao"
     }
 ]
