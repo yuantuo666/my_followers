@@ -445,7 +445,7 @@
     },
     {
         "login": "Silence-dream",
-        "name": "\u2133\u0e53\u20af\u3395\u8239\u8239",
+        "name": "WaterBoat",
         "avatarUrl": "https://avatars.githubusercontent.com/u/42824008?u=3a3bd3972460c886817d6b5f09665ecc4156fecc&v=4",
         "url": "https://github.com/Silence-dream"
     },
@@ -1918,5 +1918,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/73466486?v=4",
         "url": "https://github.com/wxb120205"
+    },
+    {
+        "login": "linxufeng666",
+        "name": null,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94343384?v=4",
+        "url": "https://github.com/linxufeng666"
     }
 ]
